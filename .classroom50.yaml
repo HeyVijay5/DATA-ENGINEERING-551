@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ds-551-f26"
+assignment: "l05-kind-studio"
+owner:
+  username: "HeyVijay5"
+  id: 144220923
+  accepted_at: "2026-10-02T00:40:54Z"
+source:
+  owner: "bu-cds-ds551-f26"
+  owner_id: 327690515
+  repo: "ds551-f26-l05-kind-studio"
+  branch: "main"
